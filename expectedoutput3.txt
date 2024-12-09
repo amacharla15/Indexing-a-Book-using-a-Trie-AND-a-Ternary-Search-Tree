@@ -1,0 +1,12 @@
+a 1, 2, 3
+away 2
+far 2
+in 2
+land 2
+lived 3
+once 1
+princess 3
+there 3
+time 1
+upon 1
+young 3
